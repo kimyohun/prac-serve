@@ -1,1 +1,1 @@
-console.log("app.js 실행중");
+console.log("안녕하세요");
